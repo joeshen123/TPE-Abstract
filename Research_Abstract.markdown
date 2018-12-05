@@ -23,6 +23,6 @@ sites of tissue damage. We hypothesize that in addition to signals secreted by
 damaged cells neutrophils can also secrete eicosinoids through membrane
 tension-mediated cpla2 pathway, which leads to a postive feedback loop to
 amplify the signals and recruit more neutrophils to infection sites. In order
-to test this hypothesis, we will design microfluidic cell chamber and study in
-vitro whether increasing confinements on neutrophils can lead to higher rates
-of recruitment. 
+to test this hypothesis, we will design microfluidic cell chamber and apply
+cellular confinements on neutrophils and test whether this will increase
+recruitments of other neutrophils. 
