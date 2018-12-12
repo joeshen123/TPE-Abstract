@@ -1,4 +1,4 @@
-Thesis Title: Investigate the Nuclear Membrane Biomechanical Control of Neutrophils Recruitment during Inflammation
+# Thesis Title: Investigate the Nuclear Membrane Biomechanical Control of Neutrophils Recruitment during Inflammation
 
 Neutrophil recruitment is the hallmark of innate immune response during tissue
 damage and infection. Neutrophils can be guided toward the target region by
